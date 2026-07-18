@@ -1,0 +1,13 @@
+# Build outputs
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Generated binary files
+tests/*.bin
+
+# IDE and system files
+.vs/
+.DS_Store
